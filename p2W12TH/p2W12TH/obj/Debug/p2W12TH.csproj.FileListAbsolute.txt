@@ -1,0 +1,7 @@
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\bin\Debug\p2W12TH.exe.config
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\bin\Debug\p2W12TH.exe
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\bin\Debug\p2W12TH.pdb
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\obj\Debug\p2W12TH.csproj.AssemblyReference.cache
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\obj\Debug\p2W12TH.csproj.CoreCompileInputs.cache
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\obj\Debug\p2W12TH.exe
+C:\Users\donna\Documents\Programing Assignment\p2W12TH\p2W12TH\obj\Debug\p2W12TH.pdb
